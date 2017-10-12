@@ -1,0 +1,23 @@
+body {
+background-color: #007399;
+overflow-y:hidden;
+}
+
+#top {
+background-color: #007399;
+border-style: solid;
+padding: 20px;
+color:white;
+}
+
+#middle {
+text-align: center;
+}
+
+#bottom {
+background-color: #007399;
+border-style: solid;
+padding: 9px;
+text-align: center;
+color:white;
+}
